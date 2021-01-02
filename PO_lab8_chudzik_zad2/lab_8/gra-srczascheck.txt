@@ -1,0 +1,5 @@
+wylosowana: 40, podana: 3	0
+wylosowana: 25, podana: 21	1
+wylosowana: 72, podana: 21	0
+wylosowana: 54, podana: 21	0
+wylosowana: 35, podana: 21	0

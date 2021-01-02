@@ -1,0 +1,5 @@
+wylosowana: 60, podana: 1	0
+wylosowana: 53, podana: 1	0
+wylosowana: 1, podana: 1	1
+wylosowana: 61, podana: 1	0
+wylosowana: 37, podana: 1	0

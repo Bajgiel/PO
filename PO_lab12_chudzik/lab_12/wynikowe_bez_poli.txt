@@ -1,0 +1,12 @@
+Urzadzenie optyczne:
+Zoom: 20
+Waga: 100
+Urzadzenie optyczne:
+Zoom: 10
+Waga: 200
+Urzadzenie optyczne:
+Zoom: 45
+Waga: 50
+Urzadzenie optyczne:
+Zoom: 5
+Waga: 500

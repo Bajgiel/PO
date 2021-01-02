@@ -1,0 +1,6 @@
+2
+mail1@wyk2.pl
+mail2@wyk2.pl
+mail3@wyk2.pl
+mail4@wyk2.pl
+mail5@wyk2.pl

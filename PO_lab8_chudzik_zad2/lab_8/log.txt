@@ -1,0 +1,16 @@
+Sat Apr 18 13:47:23 Poczatek programu
+Sat Apr 18 13:47:36 poczatek gry, gracz: srczascheck
+Sat Apr 18 13:47:39 koniec gry
+Sat Apr 18 13:47:43 koniec programu, sredni czas to: 0.6892
+Sat Apr 18 13:47:55 Poczatek programu
+Sat Apr 18 13:48:03 poczatek gry, gracz: srczas
+Sat Apr 18 13:48:04 koniec gry
+Sat Apr 18 13:48:11 poczatek gry, gracz: pies
+Sat Apr 18 13:48:14 koniec gry
+Sat Apr 18 13:48:16 koniec programu, sredni czas to: 0.5642
+Sat Apr 18 13:49:09 Poczatek programu
+Sat Apr 18 13:49:19 poczatek gry, gracz: srtimecheck
+Sat Apr 18 13:49:25 koniec gry, sredni czas to: 0.5779
+Sat Apr 18 13:49:32 poczatek gry, gracz: owca
+Sat Apr 18 13:50:08 koniec gry, sredni czas to: 3.6152
+Sat Apr 18 13:50:11 koniec programu

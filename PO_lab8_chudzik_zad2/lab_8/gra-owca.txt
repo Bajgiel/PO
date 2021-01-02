@@ -1,0 +1,10 @@
+wylosowana: 75, podana: 5	0
+wylosowana: 37, podana: 1	0
+wylosowana: 73, podana: 5	0
+wylosowana: 71, podana: 3	0
+wylosowana: 31, podana: 5	0
+wylosowana: 52, podana: 9	0
+wylosowana: 54, podana: 40	0
+wylosowana: 31, podana: 24	0
+wylosowana: 71, podana: 56	0
+wylosowana: 44, podana: 42	0

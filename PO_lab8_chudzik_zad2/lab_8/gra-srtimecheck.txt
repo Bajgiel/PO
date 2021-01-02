@@ -1,0 +1,10 @@
+wylosowana: 63, podana: 1	0
+wylosowana: 44, podana: 1	0
+wylosowana: 3, podana: 1	0
+wylosowana: 41, podana: 1	0
+wylosowana: 6, podana: 1	0
+wylosowana: 53, podana: 1	0
+wylosowana: 27, podana: 1	0
+wylosowana: 44, podana: 1	0
+wylosowana: 23, podana: 1	0
+wylosowana: 40, podana: 1	0

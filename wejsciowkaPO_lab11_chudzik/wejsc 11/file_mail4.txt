@@ -1,0 +1,9 @@
+4
+mail1@wyk4.pl
+mail2@wyk4.pl
+mail3@wyk4.pl
+mail4@wyk4.pl
+mail5@wyk4.pl
+mail6@wyk4.pl
+mail7@wyk4.pl
+mail8@wyk4.pl

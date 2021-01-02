@@ -1,0 +1,24 @@
+Lornetka: 
+Zoom: 20
+Waga: 100
+Powiekszenie: 10
+Srednica: 25
+
+Lornetka: 
+Zoom: 10
+Waga: 200
+Powiekszenie: 2
+Srednica: 50
+
+Kamera:
+Zoom: 45
+Waga: 50
+Czas pracy: 120
+Standard: MPEG-4
+
+Kamera:
+Zoom: 5
+Waga: 500
+Czas pracy: 500
+Standard: AVCHD
+
